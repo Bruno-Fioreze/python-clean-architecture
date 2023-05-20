@@ -10,3 +10,8 @@ Criando um projeto python usando clean architecture
 > engine = db_conn.get_engine()
 
 > Base.metadata.create_all(engine)
+
+
+# Comandos git
+
+> git rm filename --cached
