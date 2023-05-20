@@ -7,7 +7,6 @@ Criando um projeto python usando clean architecture
 
 > db_conn = DBConnectionHandler()
 
-> engine = db_conn.get_engine() 
+> engine = db_conn.get_engine()
 
 > Base.metadata.create_all(engine)
-
